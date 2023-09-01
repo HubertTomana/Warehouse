@@ -1,0 +1,2 @@
+# Ignorowanie node_modules dla backendu
+/node_modules
